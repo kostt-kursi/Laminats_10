@@ -31,3 +31,5 @@ def aprekinat_laminatu(plaksnes_garums, plaksnes_platums, istabas_garums, istaba
 # Ievade
 istabas_garums = float(input("Ievadiet istabas garumu (m²): "))
 istabas_platums = float(input("Ievadiet istabas platumu (m²): "))
+print(istabas_garums)
+print(istabas_platums)
